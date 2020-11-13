@@ -23,8 +23,9 @@
 
     </style>
 
-    <!-- Plugins that are needed before app configuration. -->
+    <!-- Plugins that are needed before app configuration.
     <script src="//unpkg.com/docsify-edit-on-github/index.js"></script>
+    -->
 
 </head>
 
@@ -39,16 +40,11 @@
             repo: repo,
             auto2top: true,
             coverpage: false,
-            loadSidebar: true,
+            loadSidebar: false,
+            alias: {
+                '/.*/_sidebar.md': '/_sidebar.md'
+            },
             subMaxLevel: 2,
-
-            plugins: [
-                EditOnGithubPlugin.create(
-                    repo + '/blob/master/docs/',
-                    null,
-                    '📝 Edit on GitHub',
-                )
-            ],
         }
 
     </script>
