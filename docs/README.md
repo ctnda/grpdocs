@@ -1,6 +1,6 @@
 <!-- TODO: Update with your values. -->
 # G.R.P. Cinematografica homepage
-> A quickstart template for a markdown-based docs site
+
 
  <!-- TODO: Update repo links and change license type if not MIT. -->
 
