@@ -2,9 +2,10 @@
 - [Home](/)
 - Renato Polselli
     * [<i class="fas fa-info-circle" style="color: gold"></i> Info](rp/rpinfo.md)
-    * [Filmography](rp/rpfilmography.md)
+    * [<i class="fas fa-film" style="color:tomato"></i> Filmography](rp/rpfilmography.md)
 - Bruno Vani
-    * [Info](bv/bvinfo.md)
-    * [Filmography](bv/bvfilmography.md)
+    * [<i class="fas fa-info-circle" style="color: gold"></i> Info](bv/bvinfo.md)
+    * [<i class="fas fa-film" style="color:tomato"></i> Filmography](bv/bvfilmography.md)
 - [Movies](movies/README.md)
-    * [Torino centrale del vizio](movies/torinocentraledelvizio.md)
+    * [Torino centrale del vizio](movies/tcdv.md)
+    * [Delirio caldo](movies/dc.md)
