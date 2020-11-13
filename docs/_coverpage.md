@@ -1,9 +1,9 @@
 <!-- TODO: Update title -->
-# DocsifyJS Template
+# G.R.P. Cinematografica
 
 [![GitHub tags](https://img.shields.io/github/tag/MichaelCurrin/docsify-js-template.svg)](https://GitHub.com/MichaelCurrin/docsify-js-template/tags/) <!-- TODO: Update username and repo name -->
 
-> A minimal quickstart template for a docs site <!-- TODO: Replace with your description -->
+> Foos the bar all the buzz <!-- TODO: Replace with your description -->
 
 <!-- TODO: Update to match your project's benefits/features. Git emojis work great here. -->
 

@@ -8,10 +8,10 @@ cd docs
 
 ## MODIFY THESE WITH YOUR VALUES
 
-MY_TITLE='Foo Bar'
+MY_TITLE='G.R.P. Cinematografica'
 MY_SUBTITLE='Foos the bar all the buzz'
-MY_USERNAME='My-Github-Username'
-MY_PROJECT_SLUG='foo-bar'
+MY_USERNAME='ctnda'
+MY_PROJECT_SLUG='grpdocs'
 
 ## DO NOT MODIFY AFTER THE LINE ABOVE
 
@@ -20,7 +20,7 @@ MY_GETTING_STARTED="$MY_PROJECT_SLUG-template-homepage"
 
 ORIGINAL_TITLE='DocsifyJS Template'
 ORIGINAL_SUBTITLE='A minimal quickstart template for a docs site'
-ORIGINAL_REPO='MichaelCurrin\/docsify-js-template'
+ORIGINAL_REPO='ctnda\/grpdocs'
 ORIGINAL_GETTING_STARTED='docsifyjs-template-homepage'
 ORIGINAL_KEYWORDS='doc,docs,documentation,docsify,docsifyjs,github,jekyll,github-pages'
 
